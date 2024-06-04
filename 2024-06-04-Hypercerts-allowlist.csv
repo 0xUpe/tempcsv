@@ -1,4 +1,4 @@
-index,name,address,price,fractions
-0,Adam,0x4d4n.eth,0,100
-1,Van,v4n.eth,0,100
-2,Mike,supmike.eth,0,100
+index,address,price,fractions
+0,0x4d4n.eth,0,100
+1,v4n.eth,0,100
+2,supmike.eth,0,100
